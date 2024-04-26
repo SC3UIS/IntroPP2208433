@@ -32,6 +32,13 @@ Imprime el índice del número a buscar y que en efecto fue encontrado, si lo en
 Terminación:
 Finalmente, MPI se finaliza usando MPI_Finalize() antes de que salga del programa.
 
+A continuación la ejecución en Guane: 
+![image](https://github.com/SC3UIS/IntroPP2208433/assets/161772315/4f03d9ba-ce2c-4835-9746-6f37395089ef)
+![image](https://github.com/SC3UIS/IntroPP2208433/assets/161772315/c666d507-bc60-4bd7-a1a5-6b2734fc372b)
+
+
+
+
 
 
 
